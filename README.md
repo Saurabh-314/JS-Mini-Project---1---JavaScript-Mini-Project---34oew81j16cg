@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+# JAVA-SCRIPT-MINI-PROJECT
